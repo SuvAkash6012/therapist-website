@@ -38,7 +38,7 @@ export default function Services() {
           {/* Service 2 */}
           <div>
             <img
-              src="/service-2.jpg"
+              src="/Service-2.jpg"
               alt="Relationship"
               className="w-full h-72 object-cover rounded-full mb-4"
             />
