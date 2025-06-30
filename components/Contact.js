@@ -86,7 +86,8 @@ export default function Contact() {
               focus:outline-none transition"
             />
             <p className="text-xs text-gray-500 mt-1">
-              Let us know when you're typically available for a call or consultation.
+              Let us know when you&apos;re typically available for a call or consultation.
+
             </p>
           </div>
 

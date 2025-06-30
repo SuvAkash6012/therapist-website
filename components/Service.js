@@ -11,8 +11,8 @@ export default function Services() {
         </h2>
         <p className="max-w-10xl mx-auto mb-1" style={{ color: "#41413f" }}>
           Life may bring you to therapy through anxiety, overwhelming stress, relationship struggles, trauma, grief, or challenges with self-worth.
-          Whatever you're carrying, 
-          you don’t have to navigate it alone. Therapy offers a supportive space to work toward clarity, healing, and balance.
+          Whatever you&apos;re carrying, 
+          you don&apos;t have to navigate it alone. Therapy offers a supportive space to work toward clarity, healing, and balance.
         </p>
 
         <hr className="border-gray-500 my-10 w-full" />
