@@ -1,8 +1,7 @@
-
-
 export default function Footer() {
   return (
     <div className="[font-family:'Playfair_Display',serif]">
+
       {/* Quote Section */}
       <div
         className="min-h-[50vh] bg-cover bg-center flex items-center justify-center text-center"
@@ -10,14 +9,14 @@ export default function Footer() {
       >
         <div className="p-6 rounded-md">
           <h2 className="text-2xl md:text-3xl text-black font-semibold leading-relaxed">
-            “Caring for mental health isn't self-indulgent.
+            “Caring for mental health isn&apos;t self-indulgent.
             <br /> It’s an act of survival.”
           </h2>
           <p className="text-base text-black mt-2">— Dr. Serena Blake</p>
         </div>
       </div>
 
-      {/* Contact Info */}
+      {/* Footer Section */}
       <div className="bg-[#f3f0e8] py-10 px-4 text-center">
         <div className="max-w-xl mx-auto">
           <h3 className="text-xl md:text-2xl font-semibold mb-8 text-[#41413f]">

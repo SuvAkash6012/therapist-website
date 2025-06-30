@@ -1,6 +1,4 @@
 
-
-
 export default function About() {
   return (
     <section className="bg-white py-16 px-6 [font-family:'Playfair_Display',serif]">

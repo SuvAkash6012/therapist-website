@@ -1,0 +1,19 @@
+📦 Deliverables for Therapist Website Project
+
+1️⃣ GitHub Repository:
+https://github.com/SuvAkash6012/therapist-website
+
+2️⃣ Live Website (Vercel Deployment):
+https://therapist-website.vercel.app
+
+3️⃣ Demo Video Link:
+https://drive.google.com/your-video-link
+(or)
+https://www.loom.com/share/your-video-link
+(or)
+https://youtu.be/your-video-link
+
+This video covers:
+- ✅ Layout & responsiveness (Desktop & Mobile)
+- ✅ Services section overview (Images + Text)
+- ✅ Contact form submission flow with validation
