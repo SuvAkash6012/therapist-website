@@ -3,7 +3,8 @@
 export default function Rates() {
   return (
     <section className="bg-[#9fc1b4] py-16 px-6 [font-family:'Playfair_Display',serif]">
-      <div className="max-w-4xl mx-auto text-center">
+      <div className="max-w-4xl mx-auto text-center px-4">
+
         <h2 className="text-3xl md:text-4xl font-light mb-8 text-gray-900">
           Fee Structure
         </h2>

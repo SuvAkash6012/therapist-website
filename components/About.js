@@ -2,7 +2,8 @@
 export default function About() {
   return (
     <section className="bg-white py-16 px-6 [font-family:'Playfair_Display',serif]">
-      <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
+      <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+
         {/* Image */}
         <img
           src="/dr-img.jpg"
